@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hawaryfresh10-code.github.io/Hwary/sitemap.xml
